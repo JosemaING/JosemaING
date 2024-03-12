@@ -2,7 +2,7 @@
 
 -   🌱 I’m currently learning ...
     -   Java / Python / C++ / SQL
--   📫 How to reach me: ...
+-   📫 How to reach me:
     -   Send me a [mail](mailto:jsr1002@alu.ubu.es)
 
 <!--
