@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+-   🌱 I’m currently learning ...
+    -   Java / Python / C++ / SQL
+-   📫 How to reach me: ...
+    -   Send me a [mail](mailto:jsr1002@alu.ubu.es)
+
 <!--
 **JosemaING/JosemaING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
